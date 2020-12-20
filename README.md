@@ -1,1 +1,1 @@
-# my-first-nuxt-app
+# my-first-next-app
